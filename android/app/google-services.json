@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "758153427613",
+    "project_id": "test-266e6",
+    "storage_bucket": "test-266e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758153427613:android:03f7c5b8f8821206def274",
+        "android_client_info": {
+          "package_name": "com.ahmadalseirafi.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758153427613-sb6d5sto0sj73kq42hkv1ktjqea9dudl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmadalseirafi.ecommerce",
+            "certificate_hash": "93ac8aa9f9e65d08a4dbfc3b6fd0e02371dad334"
+          }
+        },
+        {
+          "client_id": "758153427613-u2pti1hvckru36vr7dv4r20oqbnjq8h1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmadalseirafi.ecommerce",
+            "certificate_hash": "703210f1f004209393cc1fa791c16fe7dbea99cc"
+          }
+        },
+        {
+          "client_id": "758153427613-skk1mm57341adh6flf68s42rpqmc4c8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5b2J8nE_z8i2iPBIUlj8qBDtjzWyXTDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758153427613-skk1mm57341adh6flf68s42rpqmc4c8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758153427613:android:76a96eedd4daf55fdef274",
+        "android_client_info": {
+          "package_name": "com.ahmadalseirafi.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758153427613-skk1mm57341adh6flf68s42rpqmc4c8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5b2J8nE_z8i2iPBIUlj8qBDtjzWyXTDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758153427613-skk1mm57341adh6flf68s42rpqmc4c8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758153427613:android:f58d28eeb13dadf2def274",
+        "android_client_info": {
+          "package_name": "com.ahmadalseirafi.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758153427613-skk1mm57341adh6flf68s42rpqmc4c8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5b2J8nE_z8i2iPBIUlj8qBDtjzWyXTDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758153427613-skk1mm57341adh6flf68s42rpqmc4c8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

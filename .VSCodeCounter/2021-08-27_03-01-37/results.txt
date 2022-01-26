@@ -1,0 +1,175 @@
+Date : 2021-08-27 03:01:37
+Directory : c:\Users\kareem\Desktop\vendorkarem\vendor\lib
+Total : 91 files,  10522 codes, 667 comments, 713 blanks, all 11902 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         91 |     10,522 |        667 |        713 |     11,902 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                           | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                              |         91 |     10,522 |        667 |        713 |     11,902 |
+| configs                                                                                                                        |          3 |        151 |          6 |         19 |        176 |
+| models                                                                                                                         |          8 |        333 |         30 |         31 |        394 |
+| models\models_kareem                                                                                                           |          6 |        293 |         30 |         24 |        347 |
+| requests_handling                                                                                                              |          5 |        315 |          2 |         33 |        350 |
+| screens                                                                                                                        |         65 |      8,911 |        511 |        557 |      9,979 |
+| screens\address                                                                                                                |          6 |      1,250 |          8 |         40 |      1,298 |
+| screens\address\controller                                                                                                     |          1 |         71 |          5 |          7 |         83 |
+| screens\address\view                                                                                                           |          5 |      1,179 |          3 |         33 |      1,215 |
+| screens\drawer                                                                                                                 |         30 |      3,637 |        233 |        245 |      4,115 |
+| screens\drawer\chat messages                                                                                                   |          5 |        606 |          3 |         37 |        646 |
+| screens\drawer\chat messages\controller                                                                                        |          1 |         56 |          1 |          9 |         66 |
+| screens\drawer\chat messages\view                                                                                              |          4 |        550 |          2 |         28 |        580 |
+| screens\drawer\doc                                                                                                             |          4 |        384 |          4 |         25 |        413 |
+| screens\drawer\doc\controller                                                                                                  |          1 |         34 |          0 |          5 |         39 |
+| screens\drawer\doc\view                                                                                                        |          3 |        350 |          4 |         20 |        374 |
+| screens\drawer\offer                                                                                                           |          5 |        753 |        127 |         53 |        933 |
+| screens\drawer\offer\contoller                                                                                                 |          1 |         78 |          1 |         11 |         90 |
+| screens\drawer\offer\view                                                                                                      |          4 |        675 |        126 |         42 |        843 |
+| screens\drawer\profile                                                                                                         |          6 |        642 |         30 |         57 |        729 |
+| screens\drawer\profile\controller                                                                                              |          1 |        137 |          0 |         17 |        154 |
+| screens\drawer\sale                                                                                                            |          5 |        720 |          3 |         42 |        765 |
+| screens\drawer\sale\controller                                                                                                 |          1 |         52 |          1 |         11 |         64 |
+| screens\drawer\sale\view                                                                                                       |          4 |        668 |          2 |         31 |        701 |
+| screens\drawer\story                                                                                                           |          4 |        397 |          1 |         25 |        423 |
+| screens\drawer\story\controller                                                                                                |          1 |         48 |          0 |          9 |         57 |
+| screens\drawer\story\view                                                                                                      |          3 |        349 |          1 |         16 |        366 |
+| screens\drawer\view                                                                                                            |          1 |        135 |         65 |          6 |        206 |
+| screens\forgetpassword                                                                                                         |          3 |        209 |          1 |         15 |        225 |
+| screens\forgetpassword\controller                                                                                              |          1 |         50 |          0 |         11 |         61 |
+| screens\forgetpassword\view                                                                                                    |          2 |        159 |          1 |          4 |        164 |
+| screens\home                                                                                                                   |         12 |      2,362 |        255 |        173 |      2,790 |
+| screens\home\main_tab_view                                                                                                     |         11 |      2,185 |        245 |        153 |      2,583 |
+| screens\home\main_tab_view\add_item_vendor                                                                                     |          3 |        875 |        154 |         60 |      1,089 |
+| screens\home\main_tab_view\add_item_vendor\controller                                                                          |          1 |         74 |          3 |         12 |         89 |
+| screens\home\main_tab_view\items_vendor                                                                                        |          5 |      1,073 |         19 |         68 |      1,160 |
+| screens\home\main_tab_view\items_vendor\controller                                                                             |          1 |         47 |          0 |          7 |         54 |
+| screens\home\main_tab_view\items_vendor\view                                                                                   |          1 |        408 |          4 |         24 |        436 |
+| screens\home\main_tab_view\vendor_details                                                                                      |          2 |        237 |         44 |         22 |        303 |
+| screens\home\main_tab_view\vendor_details\controller                                                                           |          1 |         52 |          0 |          8 |         60 |
+| screens\home\view                                                                                                              |          1 |        177 |         10 |         20 |        207 |
+| screens\login                                                                                                                  |          2 |        224 |          6 |          8 |        238 |
+| screens\login\controller                                                                                                       |          1 |         21 |          0 |          3 |         24 |
+| screens\login\view                                                                                                             |          1 |        203 |          6 |          5 |        214 |
+| screens\messages                                                                                                               |          2 |        112 |          1 |         10 |        123 |
+| screens\messages\controller                                                                                                    |          1 |         17 |          0 |          4 |         21 |
+| screens\messages\view                                                                                                          |          1 |         95 |          1 |          6 |        102 |
+| screens\phone                                                                                                                  |          4 |        550 |          2 |         33 |        585 |
+| screens\phone\controller                                                                                                       |          1 |         46 |          0 |          8 |         54 |
+| screens\phone\view                                                                                                             |          3 |        504 |          2 |         25 |        531 |
+| screens\products                                                                                                               |          3 |        146 |          1 |         12 |        159 |
+| screens\products\controller                                                                                                    |          1 |         16 |          0 |          3 |         19 |
+| screens\products\view                                                                                                          |          2 |        130 |          1 |          9 |        140 |
+| screens\signup                                                                                                                 |          2 |        324 |          0 |         13 |        337 |
+| screens\signup\controller                                                                                                      |          1 |         83 |          0 |          6 |         89 |
+| screens\signup\view                                                                                                            |          1 |        241 |          0 |          7 |        248 |
+| screens\splashscreen                                                                                                           |          1 |         97 |          4 |          8 |        109 |
+| screens\splashscreen\view                                                                                                      |          1 |         97 |          4 |          8 |        109 |
+| widgets                                                                                                                        |          8 |        584 |         38 |         51 |        673 |
+| widgets\kareem                                                                                                                 |          1 |         85 |         28 |         11 |        124 |
+| widgets\kareem\components                                                                                                      |          1 |         85 |         28 |         11 |        124 |
++--------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                       | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\configs\colors.dart                                                             | Dart     |        124 |          1 |         13 |        138 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\configs\config_data.dart                                                        | Dart     |          3 |          1 |          1 |          5 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\configs\size.dart                                                               | Dart     |         24 |          4 |          5 |         33 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\main.dart                                                                       | Dart     |         87 |         80 |         20 |        187 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\mainhome.dart                                                                   | Dart     |        141 |          0 |          2 |        143 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\models\models_kareem\cupon__sale_icons.dart                                     | Dart     |         20 |         15 |          4 |         39 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\models\models_kareem\offers.dart                                                | Dart     |        174 |          0 |          4 |        178 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\models\models_kareem\size_config.dart                                           | Dart     |         22 |          4 |          5 |         31 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\models\models_kareem\transaction.dart                                           | Dart     |         13 |          0 |          3 |         16 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\models\models_kareem\user.dart                                                  | Dart     |         26 |         11 |          4 |         41 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\models\models_kareem\vendor_info.dart                                           | Dart     |         38 |          0 |          4 |         42 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\models\notification_service.dart                                                | Dart     |          0 |          0 |          2 |          2 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\models\user.dart                                                                | Dart     |         40 |          0 |          5 |         45 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\requests_handling\headers.dart                                                  | Dart     |          9 |          0 |          2 |         11 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\requests_handling\imageuploader.dart                                            | Dart     |         49 |          0 |          4 |         53 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\requests_handling\prefhalndler.dart                                             | Dart     |         90 |          0 |         15 |        105 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\requests_handling\requests.dart                                                 | Dart     |        141 |          1 |         10 |        152 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\requests_handling\vendor_api.dart                                               | Dart     |         26 |          1 |          2 |         29 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\address\controller\addresscontroller.dart                               | Dart     |         71 |          5 |          7 |         83 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\address\view\addaddress.dart                                            | Dart     |        333 |          0 |          6 |        339 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\address\view\address.dart                                               | Dart     |        147 |          1 |          6 |        154 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\address\view\addressitem.dart                                           | Dart     |        255 |          0 |          4 |        259 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\address\view\alladdresses.dart                                          | Dart     |         83 |          1 |          9 |         93 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\address\view\editaddress.dart                                           | Dart     |        361 |          1 |          8 |        370 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\chat messages\controller\chatmessagescontroller.dart             | Dart     |         56 |          1 |          9 |         66 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\chat messages\view\chatmessages.dart                             | Dart     |        196 |          1 |          6 |        203 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\chat messages\view\message.dart                                  | Dart     |         49 |          0 |          9 |         58 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\chat messages\view\reply.dart                                    | Dart     |        115 |          0 |          6 |        121 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\chat messages\view\sentmessages.dart                             | Dart     |        190 |          1 |          7 |        198 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\doc\controller\documentcontroller.dart                           | Dart     |         34 |          0 |          5 |         39 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\doc\view\add_doc.dart                                            | Dart     |        179 |          0 |          9 |        188 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\doc\view\carddoc.dart                                            | Dart     |         85 |          0 |          3 |         88 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\doc\view\document.dart                                           | Dart     |         86 |          4 |          8 |         98 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\offer\contoller\offercontoller.dart                              | Dart     |         78 |          1 |         11 |         90 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\offer\view\addoffer.dart                                         | Dart     |        483 |         30 |         30 |        543 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\offer\view\editeoffer.dart                                       | Dart     |         64 |          0 |          3 |         67 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\offer\view\offercrad.dart                                        | Dart     |         85 |          0 |          2 |         87 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\offer\view\offers.dart                                           | Dart     |         43 |         96 |          7 |        146 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\profile\controller\profilecontroller.dart                        | Dart     |        137 |          0 |         17 |        154 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\profile\editing_profile.dart                                     | Dart     |        241 |         23 |         21 |        285 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\profile\profile.dart                                             | Dart     |        106 |          0 |          3 |        109 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\profile\profile_picture.dart                                     | Dart     |         84 |          7 |          7 |         98 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\profile\textfield_editing_vendor.dart                            | Dart     |         54 |          0 |          7 |         61 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\profile\vendor_row.dart                                          | Dart     |         20 |          0 |          2 |         22 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\sale\controller\salecontoller.dart                               | Dart     |         52 |          1 |         11 |         64 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\sale\view\addsale.dart                                           | Dart     |        406 |          2 |         20 |        428 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\sale\view\editesale.dart                                         | Dart     |         65 |          0 |          3 |         68 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\sale\view\salecrad.dart                                          | Dart     |         85 |          0 |          2 |         87 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\sale\view\sales.dart                                             | Dart     |        112 |          0 |          6 |        118 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\story\controller\storycontroller.dart                            | Dart     |         48 |          0 |          9 |         57 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\story\view\addstory.dart                                         | Dart     |        196 |          0 |          8 |        204 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\story\view\mystories.dart                                        | Dart     |         85 |          1 |          6 |         92 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\story\view\story.dart                                            | Dart     |         68 |          0 |          2 |         70 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\drawer\view\drawer.dart                                                 | Dart     |        135 |         65 |          6 |        206 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\forgetpassword\controller\passwordcontoller.dart                        | Dart     |         50 |          0 |         11 |         61 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\forgetpassword\view\forgetpassword.dart                                 | Dart     |         75 |          0 |          2 |         77 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\forgetpassword\view\resetpassword.dart                                  | Dart     |         84 |          1 |          2 |         87 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\home\main_tab_view\add_item_vendor\add_item_vendor.dart                 | Dart     |        540 |        147 |         32 |        719 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\home\main_tab_view\add_item_vendor\controller\addproductcontroller.dart | Dart     |         74 |          3 |         12 |         89 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\home\main_tab_view\add_item_vendor\search_bar.dart                      | Dart     |        261 |          4 |         16 |        281 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\home\main_tab_view\items_vendor\controller\productscontroller.dart      | Dart     |         47 |          0 |          7 |         54 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\home\main_tab_view\items_vendor\discount.dart                           | Dart     |        165 |          1 |         15 |        181 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\home\main_tab_view\items_vendor\edit_item.dart                          | Dart     |        263 |          1 |         10 |        274 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\home\main_tab_view\items_vendor\items_vendor.dart                       | Dart     |        190 |         13 |         12 |        215 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\home\main_tab_view\items_vendor\view\editproduct.dart                   | Dart     |        408 |          4 |         24 |        436 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\home\main_tab_view\vendor_details\controller\homecontroller.dart        | Dart     |         52 |          0 |          8 |         60 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\home\main_tab_view\vendor_details\vendor_details.dart                   | Dart     |        185 |         44 |         14 |        243 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\home\main_tab_view\vendor_tab_bar.dart                                  | Dart     |          0 |         28 |          3 |         31 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\home\view\home.dart                                                     | Dart     |        177 |         10 |         20 |        207 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\login\controller\logincontroller.dart                                   | Dart     |         21 |          0 |          3 |         24 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\login\view\login.dart                                                   | Dart     |        203 |          6 |          5 |        214 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\messages\controller\messagescontroller.dart                             | Dart     |         17 |          0 |          4 |         21 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\messages\view\messages.dart                                             | Dart     |         95 |          1 |          6 |        102 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\phone\controller\phonescontroller.dart                                  | Dart     |         46 |          0 |          8 |         54 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\phone\view\addphone.dart                                                | Dart     |        151 |          0 |          9 |        160 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\phone\view\editphone.dart                                               | Dart     |        164 |          1 |          9 |        174 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\phone\view\myphonenumbers.dart                                          | Dart     |        189 |          1 |          7 |        197 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\products\controller\productscontroller.dart                             | Dart     |         16 |          0 |          3 |         19 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\products\view\myproducts.dart                                           | Dart     |         91 |          1 |          7 |         99 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\products\view\productitem.dart                                          | Dart     |         39 |          0 |          2 |         41 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\signup\controller\signupcontroller.dart                                 | Dart     |         83 |          0 |          6 |         89 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\signup\view\signup.dart                                                 | Dart     |        241 |          0 |          7 |        248 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\screens\splashscreen\view\splashscreen.dart                                     | Dart     |         97 |          4 |          8 |        109 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\widgets\Future_scafold.dart                                                     | Dart     |        175 |          1 |         20 |        196 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\widgets\card_vendor.dart                                                        | Dart     |         27 |          0 |          2 |         29 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\widgets\chart_bar.dart                                                          | Dart     |         63 |          0 |          6 |         69 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\widgets\item_card.dart                                                          | Dart     |        101 |          9 |          3 |        113 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\widgets\kareem\components\mytextfiled.dart                                      | Dart     |         85 |         28 |         11 |        124 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\widgets\mybutton.dart                                                           | Dart     |         31 |          0 |          4 |         35 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\widgets\mytextfield.dart                                                        | Dart     |         62 |          0 |          3 |         65 |
+| c:\Users\kareem\Desktop\vendorkarem\vendor\lib\widgets\profileinfo.dart                                                        | Dart     |         40 |          0 |          2 |         42 |
+| Total                                                                                                                          |          |     10,522 |        667 |        713 |     11,902 |
++--------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
